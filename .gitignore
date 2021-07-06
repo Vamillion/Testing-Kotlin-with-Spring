@@ -22,7 +22,8 @@
 hs_err_pid*
 
 
-# directories 
+# directories
 /target/
+/.mvn/
 /.idea/
 /TestingKotlinWithSpring.iml

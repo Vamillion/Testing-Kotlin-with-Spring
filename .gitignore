@@ -24,6 +24,8 @@ hs_err_pid*
 
 # directories
 /target/
-/.mvn/
+/Simple-REST-Server-App/.mvn/
+/Simple-REST-Server-App/.idea/
+/Testing-Kotlin-with-Spring.iml
+/Simple-REST-Server-App/Simple-REST-Server-App.iml
 /.idea/
-/TestingKotlinWithSpring.iml

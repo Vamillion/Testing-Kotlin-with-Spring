@@ -1,0 +1,17 @@
+= Project: Testing Kotlin with Spring
+
+Welcome at my new project.
+
+I want to start learning some Kotlin in combination with Spring.
+Within this repository you should find some small projects where I try out some things.
+
+I'm using Maven 3.6.3 as build tool.
+Spring Boot in v. 2.5.2 and Kotlin v. 1.5.2.
+
+Hope you find something you could need.
+
+This being said!
+Happy coding!
+
+NOTE: I'm not perfect, if you see something which might be outdated or seems a bad practise, please leave a note as issue, best case with a proper suggestion doing better!
+Thanks in advance for this!
